@@ -20,10 +20,10 @@ public class App
         System.out.println("This is Luis and likes to listen Rap");
         System.out.println("This is Emily and I love cats");
         System.out.println("this is angello and i like to watch series");
-        System.out.println( "This is Carlos and likes to listen Pop Music");
+        System.out.println("This is Carlos and likes to listen Pop Music");
         System.out.println("This is Alex and likes to play videogames");
-        System.out.println( "This is Carlos and likes to listen Pop Music");
         System.out.println("This is Nestor and likes to watch movies");
-
+        System.out.println("This is Francisco A and like to listen Rap");
+        System.out.println( "This is Jean and likes to sleep");
     }
 }
