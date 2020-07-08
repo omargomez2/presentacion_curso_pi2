@@ -24,5 +24,6 @@ public class App
         System.out.println("This is Nestor and likes to watch movies");
         
         System.out.println("This is Francisco A and like to listen Rap");
+        System.out.println( "This is Jean and likes to sleep");
     }
 }
