@@ -32,7 +32,7 @@ public class App
         System.out.println("This is Jhoana and likes to play football");
         System.out.println("This is Dennis and likes to play football and videogame");
         System.out.println( "This is Jefferson and likes to listen Rock");
-        System.out.println( "This is John and it's my first commit <3!");
+        System.out.println( "This is John and it's my first commit to eclipse <3!");
 
     }
 }
